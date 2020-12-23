@@ -1,0 +1,2 @@
+rootProject.name='enerjiconnect'
+include ':app'

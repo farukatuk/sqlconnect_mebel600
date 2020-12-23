@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">MEBEL-CONNECT</string>
+    <string name="sql">BUL</string>
+    <string name="makNoHint">Makine No</string>
+    <string name="unvantext">Ünvan</string>
+    <string name="dosyanotitle">Mak.No</string>
+    <string name="dosyanotext">Dosya No</string>
+    <string name="conntext">Bağlantı Durumu</string>
+    <string name="ariza_title">ARIZA</string>
+    <string name="islem_title">İŞLEM</string>
+    <string name="tarih">TARİH</string>
+    <string name="aciklama_title">AÇIK.</string>
+    <string name="sb_sayac_title">SB Sayaç</string>
+    <string name="sb_sayac_title_text">SB SAY</string>
+    <string name="cl_sayac_title">Renk Sayaç</string>
+    <string name="cl_sayac_title_text">RN SAY</string>
+    <string name="tek_title_text">TEKN.</string>
+    <string name="son_sbSayac_Text">S.Sb Sayaç</string>
+    <string name="son_clSayac_Text">S.Cl Sayaç</string>
+    <string name="son_sbSayac_Title">S.SB.SY</string>
+    <string name="son_clSayac_Title">S.RN.SY</string>
+    <string name="isTipiTitleText">İŞ.TİP</string>
+    <string name="rapBilTextTitle">RAPOR BİLGİLERİ</string>
+    <string name="mak_no_ara">MAK NO ARA</string>
+    <string name="servisButtonText">SERVİS</string>
+    <string name="serbildno">Dosya No</string>
+    <string name="serListmodel">Model</string>
+    <string name="serList_seri_no">Seri No</string>
+    <string name="serListSikayet">Şikayet</string>
+    <string name="serListDurumu">Durumu</string>
+    <string name="serListTarih">G.Tarih</string>
+    <string name="serListTeknis">Teknisyen</string>
+    <string name="ara">ARA</string>
+    <string name="isText">İŞ</string>
+    <string name="adetText">ADET</string>
+    <string name="ts_connect">TS CONNECT</string>
+    <string name="rapor">RAPOR</string>
+    <string name="program_ayarlari">TS PROGRAM BAĞLANTI AYARLARI</string>
+    <string name="ayar">AYAR</string>
+    <string name="cik_Text">ÇIK</string>
+    <string name="sifreText">ŞİFRE</string>
+    <string name="setupKayitText">KAYIT</string>
+    <string name="mevcutServerText">BAĞLI BULUNDUĞU SERVER</string>
+    <string name="email">EMAIL</string>
+    <string name="yetkili">Y.KİŞİ</string>
+    <string name="pdf">PDF</string>
+    <string-array name="ariza">
+        <item>ÇİZGİLİ KOPYA</item>
+        <item>DRİVER TANITIMI</item>
+        <item>GEÇİCİ KURULUM</item>
+        <item>İADE ALINDI</item>
+        <item>KAĞIT ALMAMA ARIZASI</item>
+        <item>KAĞIT SIKIŞMASI</item>
+        <item>KOD ARIZASI</item>
+        <item>KONTROL</item>
+        <item>KURULUM YAPILDI</item>
+        <item>LEKELİ KOPYA</item>
+        <item>MAKİNA İADE ALINDI</item>
+        <item>MAKİNA SERVİSE ALINDI</item>
+        <item>MAKİNA TESLİM EDİLDİ</item>
+        <item>PARÇA DEĞİŞİMİ GEREKLİ</item>
+        <item>PARÇA DEĞİŞİMİ YAPILDI</item>
+        <item>PERİYODİK BAKIM YAPILDI</item>
+        <item>RENK PROBLEMİ</item>
+        <item>SAYAÇ ALINDI</item>
+        <item>SESLİ ÇALIŞIYOR</item>
+        <item>SİLİK KOPYA</item>
+        <item>TESPİT</item>
+        <item>TONER DÖKÜLMESİ</item>
+        <item>TONER İKAZI</item>
+
+    </string-array>
+
+    <string-array name="islem">
+        <item>ADF PROBLEMİ</item>
+        <item>ARIZA GİDERİLDİ</item>
+        <item>ARTIK TONER PROBLEMİ</item>
+        <item>BAKIM YAPILDI</item>
+        <item>DRİVER KURULUMU YAPILDI</item>
+        <item>DRİVER TANITIMI</item>
+        <item>DUBLEX ARIZASI</item>
+        <item>FATURA</item>
+        <item>FAX AYARLARI YAPILANDIRILDI</item>
+        <item>GEÇİCİ KURULUM</item>
+        <item>IP PROBLEMİ</item>
+        <item>İADE ALINDI</item>
+        <item>İADE EDİLDİ</item>
+        <item>KAĞIT ALMAMA VE SIKIŞTIRMA PROBLEMİ</item>
+        <item>KART PROBLEMİ</item>
+        <item>KASET ARIZASI (tray unıt)</item>
+        <item>KOD ARIZASI</item>
+        <item>KONTROL</item>
+        <item>KOPYABAŞINDAN ÇIKTI</item>
+        <item>KURULUM YAPILDI</item>
+        <item>LEKELİ ÇEKİM</item>
+        <item>MAKİNA DEĞİŞTİ</item>
+        <item>MAKİNA GEÇİCİ OLARAK KURULDU</item>
+        <item>MAKİNA İADE ALINDI</item>
+        <item>MAKİNA KURULUŞU YAPILDI</item>
+        <item>MAKİNA TEKNİK SERVİSE ALINDI</item>
+        <item>MEKANİK ARIZA</item>
+        <item>NETWORK PROBLEMİ</item>
+        <item>PARÇA DEĞİŞİMİ GEREKLİ</item>
+        <item>PARÇA DEĞİŞİMİ YAPILDI</item>
+        <item>PERİYODİK BAKIM YAPILDI</item>
+        <item>PRİNT ÇIKTI PROBLEMİ</item>
+        <item>RENK PROBLEMİ</item>
+        <item>SAYAÇ ALINDI</item>
+        <item>SCANNER ARIZASI</item>
+        <item>SESLİ ÇALIŞIYOR</item>
+        <item>SİLİK ÇEKİM</item>
+        <item>TEKNİK SERVİSE ALINAN MAKİNA TESLİM EDİLDİ</item>
+        <item>TESPİT</item>
+        <item>TONER ARIZASI- DÖKME VEYA OKUMAMA</item>
+        <item>TUŞLAR ÇALIŞMIYOR</item>
+        <item>ZIMBA PROBLEMİ</item>
+
+
+    </string-array>
+
+    <string-array name="teknisyen">
+        <item>AÇIK ARIZA	</item>
+        <item>AHMET GÜNİZİ</item>
+        <item>AHSAN SAFDAR</item>
+        <item>AKIN YILDIRIM</item>
+        <item>AZAT KARAYEW</item>
+        <item>BAYRAM ÖZBEYLİ</item>
+        <item>CAFER KOÇAK</item>
+        <item>CANAN BEYAZKAYA</item>
+        <item>HAKAN GÖK</item>
+        <item>KAYIT İPTALİ</item>
+        <item>MEHMET ŞİMŞEK</item>
+        <item>MERT AKINCI</item>
+        <item>OZAN CANDEMİR</item>
+        <item>SADIK HÜSEYİN</item>
+        <item>ŞAHİNER TANDOĞAN</item>
+        <item>TUFAN ALPER TİKENOĞULLARI</item>
+
+    </string-array>
+
+    <string-array name="is_tipi">
+        <item>SERVİS</item>
+        <item>DEMO</item>
+        <item>EVRAK TESLİMİ</item>
+        <item>KURULUŞ </item>
+        <item>MALZEME TESLİMİ</item>
+        <item>ÖDEME ALINDI</item>
+        <item>SAYAÇ ALINDI</item>
+    </string-array>
+    <string name="title_activity_imza">imza</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+</resources>
